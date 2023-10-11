@@ -3,3 +3,5 @@
 ## git config --global user.name "Praveen"
 
 ## git config --global user.email "praveenganji930@gmail.com"
+
+## git remote -v
