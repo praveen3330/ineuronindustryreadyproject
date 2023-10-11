@@ -1,7 +1,3 @@
-## This is the Git tutorial
+## This is the amazing git tutorial
 
-## git config --global user.name "Praveen"
-
-## git config --global user.email "praveenganji930@gmail.com"
-
-## git remote -v
+## this is the change done by dev2
