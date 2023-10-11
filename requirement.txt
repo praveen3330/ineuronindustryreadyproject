@@ -8,3 +8,9 @@ We are learning git here. Lets learn.
 ## git branch -> to check the branch name
 ## git branch developer1 -> to create branch
 ## git checkout developer1 -> to switch to developer1 branch
+
+If there is updated code in the developer1 branch,
+and want to update that in the main branch also,
+we need to do merge.
+## git merge developer1 
+
